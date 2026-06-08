@@ -9,3 +9,9 @@ print(type(name))     #<class 'str'>
 print(type(age))      #<class 'int'>
 
 # 3. Basic maths
+a = 10
+b = 3
+print(a+b)            # 13
+print(a//b)           # 3 (floor division)
+print(a%b)            # 1 (modulo)
+print(a ** 2)         # 100 (power)
