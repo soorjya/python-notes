@@ -15,3 +15,9 @@ print(a+b)            # 13
 print(a//b)           # 3 (floor division)
 print(a%b)            # 1 (modulo)
 print(a ** 2)         # 100 (power)
+
+# 5. String methods
+text = " Hello World "
+print(text.upper())
+print(text.strip())
+print(text.replace(" ", "-"))
