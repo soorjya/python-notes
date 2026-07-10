@@ -1,4 +1,4 @@
-nums = [1,2,3,4,5,6,7,8,9,10]
+nums = [1,2,3,4,5,6,7,8,9,10] // taken by default 
 
 # 1. Line comprehsion 
 sq = [x**2 for x in nums] 
